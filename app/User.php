@@ -38,14 +38,7 @@ class User extends Authenticatable
         'tel',
         'fax',
         'piva',
-        'cf',
-        'termini_pagamento',
-        'pagamento_fine_mese',
-        'cod_iva_default',
-        'extra',
-        'PA',
-        'PA_codice',
-
+        'cf'
     ];
 
     /**
